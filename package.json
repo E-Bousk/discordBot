@@ -1,0 +1,19 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "Bot discord",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-Bousk/discordBot.git"
+  },
+  "author": "E.Bousk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-Bousk/discordBot/issues"
+  },
+  "homepage": "https://github.com/E-Bousk/discordBot#readme"
+}
